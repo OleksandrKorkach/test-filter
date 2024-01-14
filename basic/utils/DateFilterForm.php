@@ -1,12 +1,11 @@
 <?php
 
-namespace app\models;
+namespace app\utils;
 
 use yii\base\Model;
 
 class DateFilterForm extends Model
 {
-
     public $startDate;
     public $endDate;
 

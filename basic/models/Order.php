@@ -20,5 +20,4 @@ class Order extends ActiveRecord
     {
         return 'order';
     }
-
 }

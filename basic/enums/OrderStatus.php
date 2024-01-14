@@ -1,6 +1,6 @@
 <?php
 
-namespace app\models\enums;
+namespace app\enums;
 
 enum OrderStatus: string
 {

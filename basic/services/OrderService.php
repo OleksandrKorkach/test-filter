@@ -2,7 +2,7 @@
 
 namespace app\services;
 
-use app\models\enums\OrderStatus;
+use app\enums\OrderStatus;
 use yii\db\Query;
 
 class OrderService
